@@ -1,0 +1,6 @@
+com\community\controller\ThymeleafController.class
+com\community\controller\HelloController.class
+com\community\CommunityApplication.class
+com\community\entity\SaleGoods.class
+com\community\service\HelloService.class
+com\community\controller\TestController.class
