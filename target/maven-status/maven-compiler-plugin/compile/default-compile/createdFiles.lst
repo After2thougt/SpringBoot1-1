@@ -3,6 +3,7 @@ com\community\entity\AdminUser.class
 com\community\controller\HelloController.class
 com\community\utils\SystemUtil.class
 com\community\common\Constants.class
+com\community\controller\KaptchaController.class
 com\community\controller\JdbcController.class
 com\community\dao\AdminUserDao.class
 com\community\controller\MyBatisController.class
